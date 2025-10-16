@@ -1,0 +1,1 @@
+[{"nama":"Aditya Fakhri","prodi":"Informatika"},{"nama":"Kevin","prodi":"Kedokteran"},{"nama":"Beckham","prodi":"DKV"},{"nama":"Ole Romeny","prodi":"PGSD"}]
